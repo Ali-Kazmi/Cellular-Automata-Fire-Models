@@ -4,7 +4,7 @@ This is a Jupyter notebook for Computer Simulation (CX4230/CSE6730) Spring 2020 
 
 Authors: Ali Kazmi and Kenji Bomar 
 
-Usage: open the ipynb as a Jupyter Notebook. I recommend downloading the ipynb, installing anaconda, using JupyterLab, then (after they display files) navigating to the file and opening it. This will give you full access to the animations. 
+Usage: open the ipynb as a Jupyter Notebook. I recommend downloading the ipynb, installing anaconda, using JupyterLab, then (after they display files) navigating to the file and opening it. Run the cells in order, as you read through the tutorial. This will give you full access to the animations, which you can click the triangle to play after running the cell.  
 
 Outline:
 - 0: Introduction to Cellular Automata
