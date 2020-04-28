@@ -8,7 +8,6 @@ Outline:
 - 0: Introduction to Cellular Automata
 
 - 0.1: Terminology
-
 - 0.2: Code for a simple 1D Cellular Automata: Sierpinski Triangle
 
 - 0.3: Other 1D Cellular Automata
