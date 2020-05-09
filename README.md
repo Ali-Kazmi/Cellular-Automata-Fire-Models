@@ -1,10 +1,12 @@
-# Forest-Fires-Cellular-Automata-CX4230
+# Forest-Fires-Cellular-Automata
 
 This is a Jupyter notebook for Computer Simulation (CX4230/CSE6730) Spring 2020 at Georgia Tech. This is the second project for the course. We will be using Cellular Automata to model Forest Fires. Please see the Jupyter Notebook for more details. 
 
 Authors: Ali Kazmi and Kenji Bomar 
 
 Usage: open the ipynb as a Jupyter Notebook. I recommend downloading the ipynb, installing anaconda, using JupyterLab, then (after they display files) navigating to the file and opening it. Run the cells in order, as you read through the tutorial. This will give you full access to the animations, which you can click the triangle to play after running the cell.  
+
+If you want to just view it on github, just open the ipynb and view it. You won't get pretty animations but you'll get the point! 
 
 Outline:
 - 0: Introduction to Cellular Automata
